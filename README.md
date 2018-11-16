@@ -1,1 +1,1 @@
-# css-project
+# media-query-practice
